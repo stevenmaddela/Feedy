@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.syfn.flutter_app_feedy">
+    <!-- Flutter needs it to communicate with the running application
+         to allow setting breakpoints, to provide hot reload, etc.
+    -->
+
+    <meta-data
+        android:name="com.google.android.geo.API_KEY"
+        android:value="AIzaSyDhrAC1DVBJKv7VNYFxm6jdA23kopkKzCw"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+</manifest>
