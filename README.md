@@ -1,6 +1,6 @@
-# flutter_app_feedy
+# Feedy
 
-A new Flutter application.
+A Flutter application designed for suppliers to donate wasted food.
 
 ## Getting Started
 
