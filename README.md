@@ -1,5 +1,5 @@
 # Feedy
-<img src="https://user-images.githubusercontent.com/70993825/129505246-93ab9d5f-5ae2-429f-9216-cf967043c48d.png" alt="alt text" width="400" height="200">
+<img src="https://github.com/stevenmaddela/Feedy/assets/70993825/973a1b6d-8349-420c-b6b8-4be8f0a61a1a" alt="alt text" width="400" height="200">
 
 
 https://user-images.githubusercontent.com/70993825/129507664-d619a87b-27ed-4d09-9888-9cd01e121593.mp4
